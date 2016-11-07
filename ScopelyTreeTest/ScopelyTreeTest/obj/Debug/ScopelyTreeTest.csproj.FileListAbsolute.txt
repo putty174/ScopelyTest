@@ -1,0 +1,6 @@
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\bin\Debug\ScopelyTreeTest.exe.config
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\bin\Debug\ScopelyTreeTest.exe
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\bin\Debug\ScopelyTreeTest.pdb
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\obj\Debug\ScopelyTreeTest.csprojResolveAssemblyReference.cache
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\obj\Debug\ScopelyTreeTest.exe
+d:\users\maxh\documents\visual studio 2012\Projects\ScopelyTreeTest\ScopelyTreeTest\obj\Debug\ScopelyTreeTest.pdb
